@@ -1,0 +1,930 @@
+(livenation)Smarts-MacBook-Pro:playlist-generator smart$ python main.py
+INFO:session_manager:Connecting
+INFO:libspotify:20:50:39.878 I [ap:1752] Connecting to AP ap.spotify.com:4070
+
+INFO:libspotify:20:50:39.878 I [user_cache:135] UserCache::initiateGetUsers() will query for 1 users
+
+INFO:session_manager:Logged in as 'ucdev'
+INFO:main:session_callback
+INFO:libspotify:20:50:39.882 I [offline-mgr:2084] Storage has been cleaned
+
+INFO:libspotify:20:50:39.971 I [ap:1226] Connected to AP: 193.182.8.86:4070
+
+INFO:main:playlist_container_loaded_callback
+INFO:libspotify:20:50:41.059 E [ap:4172] ChannelError(0, 1, playlist)
+
+INFO:libspotify:20:50:41.079 E [ap:4172] ChannelError(10, 1, playlist)
+
+INFO:libspotify:20:50:41.080 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.081 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.081 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.081 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.089 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.089 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.089 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.090 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.098 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.098 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.098 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.098 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.165 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.165 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.165 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.165 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.166 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.166 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.166 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.166 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.200 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.201 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.201 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.201 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.201 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.202 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.202 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.202 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.202 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.203 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.203 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.203 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.322 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.322 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.422 E [ap:4172] ChannelError(21, 1, playlist)
+
+INFO:libspotify:20:50:41.422 E [ap:4172] ChannelError(31, 1, playlist)
+
+INFO:libspotify:20:50:41.422 E [ap:4172] ChannelError(25, 1, playlist)
+
+INFO:libspotify:20:50:41.424 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.424 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.458 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.459 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.459 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.459 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.477 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.477 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.477 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.477 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.477 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.477 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.485 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.486 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.486 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.486 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.520 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.520 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.538 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.538 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.538 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.538 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.740 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.740 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.740 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.740 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.758 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.758 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.758 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.758 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.758 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.758 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.758 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.759 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.759 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.759 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.826 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.826 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.826 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.826 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.861 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:41.861 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.011 E [ap:4172] ChannelError(47, 1, playlist)
+
+INFO:libspotify:20:50:42.027 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.027 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.027 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.027 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.027 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.027 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.027 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.028 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.036 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.036 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.053 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.053 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.088 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.088 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.156 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.156 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.268 E [ap:4172] ChannelError(68, 1, playlist)
+
+INFO:libspotify:20:50:42.289 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.290 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.290 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.290 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.290 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.290 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.291 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.291 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.358 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.358 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.359 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.359 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.359 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.359 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.359 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.359 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.359 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.359 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.363 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.363 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.439 E [ap:4172] ChannelError(48, 1, playlist)
+
+INFO:libspotify:20:50:42.439 E [ap:4172] ChannelError(69, 1, playlist)
+
+INFO:libspotify:20:50:42.439 E [ap:4172] ChannelError(58, 1, playlist)
+
+INFO:libspotify:20:50:42.481 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.481 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.482 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.482 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.482 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.482 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.482 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.482 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.541 E [ap:4172] ChannelError(76, 1, playlist)
+
+INFO:libspotify:20:50:42.541 E [ap:4172] ChannelError(71, 1, playlist)
+
+INFO:libspotify:20:50:42.549 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.549 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.772 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.772 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.772 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.772 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.772 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.772 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.772 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.772 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.773 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.773 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.773 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.773 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.840 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.840 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.840 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.840 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.841 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.841 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.841 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.841 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.841 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.841 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.841 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.841 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.842 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.842 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.842 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.849 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.849 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.849 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.966 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.966 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.966 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.966 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.974 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:42.974 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.041 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.041 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.041 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.041 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.049 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.049 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.066 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.066 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.067 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.067 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.134 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.134 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.250 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.251 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.325 E [ap:4172] ChannelError(106, 1, playlist)
+
+INFO:libspotify:20:50:43.374 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.374 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.374 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.374 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.374 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.374 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.408 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.408 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.408 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.408 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.408 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.409 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.409 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.409 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.409 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.409 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.414 E [ap:4172] ChannelError(107, 1, playlist)
+
+INFO:libspotify:20:50:43.417 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.418 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.418 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.418 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.470 E [ap:4172] ChannelError(115, 1, playlist)
+
+INFO:libspotify:20:50:43.484 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.484 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.484 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.484 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.485 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.485 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.502 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.502 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.729 E [ap:4172] ChannelError(111, 1, playlist)
+
+INFO:libspotify:20:50:43.729 E [ap:4172] ChannelError(124, 1, playlist)
+
+INFO:libspotify:20:50:43.730 E [ap:4172] ChannelError(123, 1, playlist)
+
+INFO:libspotify:20:50:43.746 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.746 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.747 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.747 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.747 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.747 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.747 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.747 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.864 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.864 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.864 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:43.864 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.010 E [ap:4172] ChannelError(125, 1, playlist)
+
+INFO:libspotify:20:50:44.038 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.038 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.038 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.038 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.039 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.039 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.039 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.039 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.039 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.039 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.039 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.039 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.040 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.040 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.108 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.108 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.108 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.109 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.176 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.176 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.211 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.212 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.233 E [ap:4172] ChannelError(136, 1, playlist)
+
+INFO:libspotify:20:50:44.246 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.246 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.281 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.281 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.299 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.299 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.308 E [ap:4172] ChannelError(143, 1, playlist)
+
+INFO:libspotify:20:50:44.316 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.316 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.383 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.383 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.401 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.401 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.559 E [ap:4172] ChannelError(155, 1, playlist)
+
+INFO:libspotify:20:50:44.590 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.591 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.591 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.591 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.595 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.595 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.605 E [ap:4172] ChannelError(158, 1, playlist)
+
+INFO:libspotify:20:50:44.612 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.612 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.612 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.612 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.612 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.612 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.613 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.613 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.613 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.613 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.615 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.615 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.615 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.615 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.649 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.650 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.651 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.651 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.660 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.660 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.660 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.660 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.696 E [ap:4172] ChannelError(163, 1, playlist)
+
+INFO:libspotify:20:50:44.726 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.726 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.796 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.796 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.914 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.914 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.980 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.981 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.989 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.989 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.998 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.998 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.998 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.998 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.998 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.998 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.998 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.999 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.999 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:44.999 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.032 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.032 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.036 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.036 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.036 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.036 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.054 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.054 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.063 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.063 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.080 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.080 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.080 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.080 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.089 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.089 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.106 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.106 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.186 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.186 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.220 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.220 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.228 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.228 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.246 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.246 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.279 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.279 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.346 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.346 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.346 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.346 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.464 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.464 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.589 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.589 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.590 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.590 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.590 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.590 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.590 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.590 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.590 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.590 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.591 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.591 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.591 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.591 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.591 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.591 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.591 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.591 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.600 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.600 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.600 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.600 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.600 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.600 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.618 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.618 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.635 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.636 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.636 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.636 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.636 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.636 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.754 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.754 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.837 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.837 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.847 E [ap:4172] ChannelError(207, 1, playlist)
+
+INFO:libspotify:20:50:45.855 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.855 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.856 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.856 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.874 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.874 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.875 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.875 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.909 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.910 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.910 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.910 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.928 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.928 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.928 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.928 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.928 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.928 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.928 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:45.929 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:46.022 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:46.022 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:46.023 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:46.023 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:46.023 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:46.023 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:46.091 E [ap:4172] ChannelError(219, 1, playlist)
+
+INFO:libspotify:20:50:46.092 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:46.092 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:46.375 E [ap:4172] ChannelError(233, 1, playlist)
+
+INFO:libspotify:20:50:46.375 E [ap:4172] ChannelError(232, 1, playlist)
+
+INFO:libspotify:20:50:46.375 E [ap:4172] ChannelError(230, 1, playlist)
+
+INFO:libspotify:20:50:46.407 E [ap:4172] ChannelError(228, 1, playlist)
+
+INFO:libspotify:20:50:46.408 E [ap:4172] ChannelError(231, 1, playlist)
+
+INFO:libspotify:20:50:46.465 E [ap:4172] ChannelError(229, 1, playlist)
+
+INFO:libspotify:20:50:46.465 E [ap:4172] ChannelError(234, 1, playlist)
+
+INFO:libspotify:20:50:51.657 E [ap:4172] ChannelError(3, 1, playlist)
+
+INFO:libspotify:20:50:51.747 E [ap:4172] ChannelError(13, 1, playlist)
+
+INFO:libspotify:20:50:51.747 E [ap:4172] ChannelError(6, 1, playlist)
+
+INFO:libspotify:20:50:51.747 E [ap:4172] ChannelError(17, 1, playlist)
+
+INFO:libspotify:20:50:51.747 E [ap:4172] ChannelError(0, 1, playlist)
+
+INFO:libspotify:20:50:51.747 E [ap:4172] ChannelError(7, 1, playlist)
+
+INFO:libspotify:20:50:51.747 E [ap:4172] ChannelError(1, 1, playlist)
+
+INFO:libspotify:20:50:51.747 E [ap:4172] ChannelError(10, 1, playlist)
+
+INFO:libspotify:20:50:51.747 E [ap:4172] ChannelError(5, 1, playlist)
+
+INFO:libspotify:20:50:51.747 E [ap:4172] ChannelError(2, 1, playlist)
+
+INFO:libspotify:20:50:51.747 E [ap:4172] ChannelError(14, 1, playlist)
+
+INFO:libspotify:20:50:51.836 E [ap:4172] ChannelError(16, 1, playlist)
+
+INFO:libspotify:20:50:51.836 E [ap:4172] ChannelError(15, 1, playlist)
+
+INFO:libspotify:20:50:51.837 E [ap:4172] ChannelError(8, 1, playlist)
+
+INFO:libspotify:20:50:51.837 E [ap:4172] ChannelError(4, 1, playlist)
+
+INFO:libspotify:20:50:51.926 E [ap:4172] ChannelError(12, 1, playlist)
+
+INFO:libspotify:20:50:51.927 E [ap:4172] ChannelError(11, 1, playlist)
+
+INFO:libspotify:20:50:51.927 E [ap:4172] ChannelError(18, 1, playlist)
+
+INFO:libspotify:20:50:51.927 E [ap:4172] ChannelError(9, 1, playlist)
+
+INFO:libspotify:20:50:52.413 E [ap:4172] ChannelError(0, 1, playlist)
+
+INFO:libspotify:20:50:52.851 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:52.851 W [playlist.cpp:45] Adding observer while updating
+
+INFO:libspotify:20:50:57.606 E [ap:4172] ChannelError(1, 1, playlist)
+
+INFO:libspotify:20:50:57.606 E [ap:4172] ChannelError(7, 1, playlist)
+
+INFO:libspotify:20:50:57.695 E [ap:4172] ChannelError(9, 1, playlist)
+
+INFO:libspotify:20:50:57.695 E [ap:4172] ChannelError(0, 1, playlist)
+
+INFO:libspotify:20:50:57.695 E [ap:4172] ChannelError(10, 1, playlist)
+
+INFO:libspotify:20:50:57.696 E [ap:4172] ChannelError(6, 1, playlist)
+
+INFO:libspotify:20:50:57.696 E [ap:4172] ChannelError(2, 1, playlist)
+
+INFO:libspotify:20:50:57.696 E [ap:4172] ChannelError(5, 1, playlist)
+
+INFO:libspotify:20:50:57.696 E [ap:4172] ChannelError(8, 1, playlist)
+
+INFO:libspotify:20:50:57.784 E [ap:4172] ChannelError(11, 1, playlist)
+
+INFO:libspotify:20:50:57.785 E [ap:4172] ChannelError(3, 1, playlist)
+
+INFO:libspotify:20:50:57.785 E [ap:4172] ChannelError(4, 1, playlist)

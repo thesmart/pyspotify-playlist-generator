@@ -27,70 +27,70 @@ The main script to execute.
 
 This all works on OSX, but the brew steps can be substituted with apt-get.
 
-    Install Brew
+Install Brew
 
-    ```
-    sudo ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
-    sudo brew update
-    sudo brew upgrade
-    ```
+```
+sudo ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
+sudo brew update
+sudo brew upgrade
+```
 
-    Install libspotify
+Install libspotify
 
-    ```
-    sudo brew install libspotify
-    ```
+```
+sudo brew install libspotify
+```
 
-    Install python 2.7. (usually installed by default):
+Install python 2.7. (usually installed by default):
 
-    ```
-    $ python --version
-    Python 2.7.1
-    ```
+```
+$ python --version
+Python 2.7.1
+```
 
-    Install pip and virtualenv:
+Install pip and virtualenv:
 
-    ```
-    sudo easy_install pip
-    sudo pip install virtualenvwrapper
-    ```
+```
+sudo easy_install pip
+sudo pip install virtualenvwrapper
+```
 
-    You then append to your .bash_login file:
+You then append to your .bash_login file:
 
-    ```
-    export WORKON_HOME
-    source /usr/local/bin/virtualenvwrapper.sh
+```
+export WORKON_HOME
+source /usr/local/bin/virtualenvwrapper.sh
 
-    export SPOTIFY_USER='any_spotify_username'
-    export SPOTIFY_PASS='any_spotify_password'
-    ```
+export SPOTIFY_USER='any_spotify_username'
+export SPOTIFY_PASS='any_spotify_password'
+```
 
-    Source your .bash_login:
+Source your .bash_login:
 
-    ```
-    source ~/.bash_login
-    ```
+```
+source ~/.bash_login
+```
 
-    Create an environment for the python script, then swap to that environment:
+Create an environment for the python script, then swap to that environment:
 
-    ```
-    git clone git@github.com:thesmart/pyspotify-playlist-generator.git
-    cd pyspotify-playlist-generator
-    mkvirtualenv env-pyspotify-playlist-generator
-    source env-pyspotify-playlist-generator/bin/activate
-    ```
+```
+git clone git@github.com:thesmart/pyspotify-playlist-generator.git
+cd pyspotify-playlist-generator
+mkvirtualenv env-pyspotify-playlist-generator
+source env-pyspotify-playlist-generator/bin/activate
+```
 
-    Install the necessary python modules:
+Install the necessary python modules:
 
-    ```
-    pip install pyspotify==1.10
-    ```
+```
+pip install pyspotify==1.10
+```
 
-    Now run that puppy.
+Now run that puppy.
 
-    ```
-    python main.py
-    ```
+```
+python main.py
+```
 
 ### Issues:
 

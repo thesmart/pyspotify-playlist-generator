@@ -32,10 +32,10 @@ class SessionManager(SpotifySessionManager):
     # called when logged into spotify
     def logged_in(self, session, error):
         if error:
-            logger.error("Error during login:", error)
+            logger.error("Error during logged_in: %s", error)
             return
 
-        logger.info("Logged in as '%s'", session.display_name())
+        logger.info("logged_in as '%s'", session.display_name())
         if self.session_callback:
             self.session_callback(self.session)
 
@@ -44,7 +44,7 @@ class SessionManager(SpotifySessionManager):
         loggerLibSpotify.info(message)
 
     def connection_error(self, session, error):
-        loggerLibSpotify.error('connection_error', error)
+        loggerLibSpotify.error('connection_error: %s', error)
 
     def add_session_callback(self, callback):
         self.session_callback = callback
